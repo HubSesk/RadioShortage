@@ -1,0 +1,15 @@
+GenericEntity : "{59CA00DA0E8F426B}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Single.et" {
+ coords 131.247 1 129.188
+}
+GenericEntity : "{715F17F82E028CF5}Prefabs/Items/Equipment/Radios/Radio_R148_Single.et" {
+ coords 131.341 1 129.429
+}
+GenericEntity : "{88B4E9C3B4F3B89D}Prefabs/Items/Equipment/Radios/Radio_R148_Multi.et" {
+ coords 131.418 1 125.595
+}
+GenericEntity : "{A021FEE1947E7603}Prefabs/Items/Equipment/Radios/Radio_ANPRC68__Multi.et" {
+ coords 131.456 1 125.844
+}
+GenericEntity : "{EB21D26B8D5A3232}Prefabs/Items/Food/MRE.et" {
+ coords 131.925 1 129.225
+}

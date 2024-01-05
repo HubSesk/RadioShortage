@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A021FEE1947E7603}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Dual.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

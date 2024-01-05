@@ -1,0 +1,8 @@
+GameProject {
+ ID "RadioShortage"
+ GUID "5F0415B04485E3FB"
+ TITLE "RadioShortage"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
