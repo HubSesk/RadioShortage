@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{C8FF4D639DB28695}Prefabs/Characters/Factions/OPFOR/Spec/Character_USSR_SL_KZS_P.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
