@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{4B19E30E5FBE6920}Prefabs/Characters/Factions/INDFOR/NAPA/Character_NAPA_ArmoredBase.et"
+ Name "{4B19E30E5FBE6920}Prefabs/Characters/Factions/INDFOR/NAPA/Character_NAPA_BaseLoadout.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
@@ -10,6 +10,10 @@ MetaFileClass {
   EntityTemplateResourceClass PS4 : PC {
   }
   EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass Xbox : PC {
   }
  }
 }
