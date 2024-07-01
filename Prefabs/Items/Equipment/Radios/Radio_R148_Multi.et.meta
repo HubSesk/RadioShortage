@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{88B4E9C3B4F3B89D}Prefabs/Items/Equipment/Radios/Radio_R148_Dual.et"
+ Name "{88B4E9C3B4F3B89D}Prefabs/Items/Equipment/Radios/Radio_R148_Multi.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
@@ -10,6 +10,8 @@ MetaFileClass {
   EntityTemplateResourceClass PS4 : PC {
   }
   EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
   }
  }
 }
