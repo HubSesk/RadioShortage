@@ -1,3 +1,6 @@
+SCR_ChimeraCharacter : "{0B0F9BA9E9A6E118}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_USMC_MEF/Character_RHS_USAF_USMC_SL.et" {
+ coords 128.295 1 124.449
+}
 GenericEntity : "{59CA00DA0E8F426B}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Single.et" {
  coords 131.247 1 129.188
 }
@@ -7,7 +10,7 @@ GenericEntity : "{715F17F82E028CF5}Prefabs/Items/Equipment/Radios/Radio_R148_Sin
 GenericEntity : "{88B4E9C3B4F3B89D}Prefabs/Items/Equipment/Radios/Radio_R148_Multi.et" {
  coords 131.418 1 125.595
 }
-GenericEntity : "{A021FEE1947E7603}Prefabs/Items/Equipment/Radios/Radio_ANPRC68__Multi.et" {
+GenericEntity : "{A021FEE1947E7603}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Multi.et" {
  coords 131.456 1 125.844
 }
 GenericEntity : "{EB21D26B8D5A3232}Prefabs/Items/Food/MRE.et" {

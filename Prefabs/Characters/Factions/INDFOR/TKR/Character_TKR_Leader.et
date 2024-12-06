@@ -5,7 +5,7 @@ SCR_ChimeraCharacter : "{C5520722FCCA576E}Prefabs/Characters/Factions/INDFOR/TKR
    InitialInventoryItems {
     ItemsInitConfigurationItem "{60FB76D98B3CD6FB}" {
      PrefabsToSpawn {
-      "{2A7F5B8F1077B264}Prefabs/Items/Equipment/Radios/TK/Radio_ANPRC68_TKR_M.et" "{062E2F1D7F6739D6}Prefabs/Items/Equipment/Accessories/ETool_MPL50/ETool_MPL50_FreeRoamBuilding_Gadget.et"
+      "{02CF96D8F971B5B7}Prefabs/Items/Equipment/Radios/Radio_R148_FIA_Multi.et" "{062E2F1D7F6739D6}Prefabs/Items/Equipment/Accessories/ETool_MPL50/ETool_MPL50_FreeRoamBuilding_Gadget.et"
      }
     }
    }
