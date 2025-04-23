@@ -1,0 +1,14 @@
+SCR_ChimeraCharacter : "{5B236FF3A449A4E1}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO3_EMR/Character_RHS_RF_MSV_VKPO_3.0_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{623A51059E4ED1CA}" {
+     PrefabsToSpawn {
+      "{D55C4F07EF14A878}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_Multi.et"
+     }
+    }
+   }
+  }
+ }
+}
