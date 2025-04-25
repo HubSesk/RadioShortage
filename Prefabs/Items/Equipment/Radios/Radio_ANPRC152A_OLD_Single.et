@@ -1,14 +1,15 @@
 GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
  ID "508AB2013EEE1E00"
  components {
-  SoundComponent "{6049742311DF5E80}" {
+  SoundComponent "{6532B40EC02831FE}" {
+   Enabled 0
    Filenames {
-    "{5409F2998421DA59}Sounds/Items/Equipment/Radios/Items_Radio_Inspection_Actions.acp"
+    "{3E18CA4C4F45BBA9}Sounds/Items/Equipment/Radios/ANPRC_152/Items_Radio_PRC152_Inspection_Actions.acp"
    }
    SoundPoints {
     SoundPointInfo KnobTune {
      PivotID "Scene_Root"
-     Offset -0.0114 0.1919 0
+     Offset 0.0364 0.2739 -0.0169
     }
    }
   }
@@ -16,7 +17,7 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
    "Encryption key" "chickenNuggets"
    "Turned on" 1
    Transceivers {
-    RadioTransceiver "{6049742311DF5EB7}" {
+    RadioTransceiver "{6532B40EC02831EF}" {
      ChannelFrequency 32000
      "Transmitting Range" 2200
      "Min tunable frequency" 32000
@@ -33,16 +34,16 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
      Icon "{F38FC154DE225E20}Assets/Items/Equipment/Radios/Radio_ANPRC152/data/icon.edds"
     }
     ItemPhysAttributes ItemPhysicalAttributes PhysicalAttributes {
-     Weight 3
+     Weight 0.7
      SizeSetupStrategy Manual
      ItemVolume 450
      RestingUP Forward
      RestingAdditiveOffsetLS 0 0 0.18
     }
-    ItemAnimationAttributes ItemAnimationAttributes "{6049742311DF5EBE}" {
+    ItemAnimationAttributes ItemAnimationAttributes "{6532B40EC028311A}" {
      AnimationInstance "{5B6413B9125EE731}Assets/Items/Equipment/workspaces/Radio_R148_player.asi"
      AnimationAttachments {
-      AnimationAttachmentInfo "{6049742311DF5EA3}" {
+      AnimationAttachmentInfo "{6532B40EC028311F}" {
        AnimGraph "{F01C00FF64F0A357}Assets/Items/Equipment/Radios/Radio_ANPRC152A/Workspace/Radio_ANPRC152A.agr"
        AnimInstance "{0EEE8F0913EA9639}Assets/Items/Equipment/Radios/Radio_ANPRC152A/Workspace/Radio_ANPRC152A_player.asi"
        BindingName "Gadget"
@@ -51,13 +52,13 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
      AllowInspection 1
     }
     CustomAttributes {
-     PreviewRenderAttributes "{6049742311DF5EA0}" {
+     PreviewRenderAttributes "{6532B40EC0283101}" {
       CameraOrbitAngles -40 -10 0
       CameraDistanceToItem 0.31
       CameraOffset 0 -0.1 0
       FOV 40
      }
-     SCR_VONPreviewAttributes "{6049742311DF5EA6}" {
+     SCR_VONPreviewAttributes "{6532B40EC0283106}" {
       CameraOrbitAngles -30 0 45
       CameraDistanceToItem 0.7
       FOV 40
@@ -78,9 +79,9 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
    ModelGeometry 1
    CCDRadius 0.028
   }
-  ProcAnimComponent "{6049742311DF5EAA}" {
+  ProcAnimComponent "{6532B40EC028310E}" {
    Parameters {
-    ProcAnimParams "{6049742311DF5EA8}" {
+    ProcAnimParams "{6532B40EC0283133}" {
      ResourceName "{DE57211A364C1700}Assets/Items/Equipment/Radios/Radio_R148/Radio_R148_01.pap"
      BoneNames {
       "i_channel01"
@@ -92,7 +93,27 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
   }
   SCR_RadioComponent "{5A30BAE7673C63D4}" {
    m_eAnimVariable ANPRC68
+   m_bIsVisibleEquipped 1
    m_iRadioType ANPRC68
+  }
+  SCR_SoundDataComponent "{5B18D20ED0099A17}" {
+   m_aAudioSourceConfiguration {
+    SCR_AudioSourceConfiguration "{5B1A6513F7AD9FD9}" {
+     m_sSoundProject "{3E18CA4C4F45BBA9}Sounds/Items/Equipment/Radios/ANPRC_152/Items_Radio_PRC152_Inspection_Actions.acp"
+    }
+    SCR_AudioSourceConfiguration "{5B1A6513FF22FC0A}" {
+     m_sSoundProject "{3E18CA4C4F45BBA9}Sounds/Items/Equipment/Radios/ANPRC_152/Items_Radio_PRC152_Inspection_Actions.acp"
+    }
+    SCR_AudioSourceConfiguration "{5B1A651380D7F397}" {
+     m_sSoundProject "{3E18CA4C4F45BBA9}Sounds/Items/Equipment/Radios/ANPRC_152/Items_Radio_PRC152_Inspection_Actions.acp"
+    }
+    SCR_AudioSourceConfiguration "{5C5A9C871ACD6C4B}" {
+     m_sSoundProject "{3E18CA4C4F45BBA9}Sounds/Items/Equipment/Radios/ANPRC_152/Items_Radio_PRC152_Inspection_Actions.acp"
+    }
+    SCR_AudioSourceConfiguration "{5C5A9C8713158BCE}" {
+     m_sSoundProject "{3E18CA4C4F45BBA9}Sounds/Items/Equipment/Radios/ANPRC_152/Items_Radio_PRC152_Inspection_Actions.acp"
+    }
+   }
   }
   ActionsManagerComponent "{508AB5952B584B2E}" {
    ActionContexts {
@@ -103,29 +124,29 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
      }
      Radius 0.135
     }
-    UserActionContext "{6049742311DF5ED2}" {
+    UserActionContext "{6532B40EC028313D}" {
      ContextName "knob_channel"
-     Position PointInfo "{6049742311DF5ED1}" {
+     Position PointInfo "{6532B40EC028313C}" {
       Offset 0.0755 0.1576 -0.0056
      }
      Radius 0.3
     }
    }
    additionalActions {
-    SCR_EquipGadgetAction "{553AEBE8806A957C}" : "{068D8D646964D12A}Prefabs/Characters/Core/Actions/EquipGadgetAction.conf" {
+    SCR_EquipItemAction "{553AEBE8806A957C}" : "{068D8D646964D12A}Prefabs/Characters/Core/Actions/EquipGadgetAction.conf" {
     }
-    SCR_RadioTuningUserAction "{6049742311DF5ED6}" {
+    SCR_RadioTuningUserAction "{6532B40EC0283126}" {
      ParentContextList {
       "knob_channel"
      }
-     UIInfo UIInfo "{6049742311DF5ED5}" {
+     UIInfo UIInfo "{6532B40EC0283124}" {
      }
     }
-    SCR_RadioTuningUserAction "{6049742311DF5ED4}" {
+    SCR_RadioTuningUserAction "{6532B40EC0283152}" {
      ParentContextList {
       "knob_channel"
      }
-     UIInfo UIInfo "{6049742311DF5EDB}" {
+     UIInfo UIInfo "{6532B40EC0283150}" {
      }
      m_bTuneUp 1
     }

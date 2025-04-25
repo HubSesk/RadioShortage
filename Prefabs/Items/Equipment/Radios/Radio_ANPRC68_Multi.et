@@ -5,14 +5,14 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
    "Encryption key" "chickenNuggets"
    "Turned on" 1
    Transceivers {
-    RadioTransceiver "{61C2D4CE6BA77C07}" {
+    RadioTransceiver "{6532B409642E3AAC}" {
      ChannelFrequency 32000
      "Transmitting Range" 1300
      "Min tunable frequency" 32000
      "Max tunable frequency" 68000
      "Frequency resolution" 100
     }
-    RadioTransceiver "{61C2D4CE6BA77C0C}" {
+    RadioTransceiver "{6532B409642E3AB4}" {
      ChannelFrequency 48000
      "Transmitting Range" 1300
      "Min tunable frequency" 32000
@@ -35,10 +35,10 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
      RestingUP Forward
      RestingAdditiveOffsetLS 0 0 0.15
     }
-    ItemAnimationAttributes ItemAnimationAttributes "{61C2D4CE6BA77C26}" {
+    ItemAnimationAttributes ItemAnimationAttributes "{6532B409642E3AC1}" {
      AnimationInstance "{332D4A7512E78419}Assets/Items/Equipment/workspaces/Radio_ANPRC68_player.asi"
      AnimationAttachments {
-      AnimationAttachmentInfo "{61C2D4CE6BA77C2B}" {
+      AnimationAttachmentInfo "{6532B409642E3AC3}" {
        AnimGraph "{402BB5FA2891D687}Assets/Items/Equipment/workspaces/Radio_ANPRC68.agr"
        AnimInstance "{332D4A7512E78419}Assets/Items/Equipment/workspaces/Radio_ANPRC68_player.asi"
        BindingName "Gadget"
@@ -47,14 +47,14 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
      AllowInspection 1
     }
     CustomAttributes {
-     PreviewRenderAttributes "{61C2D4CE6BA77C2D}" {
+     PreviewRenderAttributes "{6532B409642E3AC9}" {
       CameraPreset Top
       CameraOrbitAngles 20 0 0
       CameraDistanceToItem 1
       CameraOffset 0 -0.015 0
       FOV 10
      }
-     SCR_VONPreviewAttributes "{61C2D4CE6BA77C53}" {
+     SCR_VONPreviewAttributes "{6532B409642E3ACB}" {
       CameraOrbitAngles -30 180 45
       CameraDistanceToItem 0.6
       FOV 40
@@ -72,9 +72,9 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
    ModelGeometry 1
    CCDRadius 0.015
   }
-  ProcAnimComponent "{61C2D4CE6BA77C5E}" {
+  ProcAnimComponent "{6532B409642E3AD4}" {
    Parameters {
-    ProcAnimParams "{61C2D4CE6BA77C5C}" {
+    ProcAnimParams "{6532B409642E3AD6}" {
      ResourceName "{F335B90D4353B9A4}Assets/Items/Equipment/Radios/Radio_ANPRC68/Radio_ANPRC68_01.pap"
      BoneNames {
       "i_channel01" "i_power" "i_volume"
@@ -95,40 +95,40 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
      }
      Radius 0.115
     }
-    UserActionContext "{61C2D4CE6BA77C4B}" {
+    UserActionContext "{6532B409642E3ADD}" {
      ContextName "knob_channel"
-     Position PointInfo "{61C2D4CE6BA77C4A}" {
+     Position PointInfo "{6532B409642E3ADE}" {
       Offset 0.012 0.2 0.007
      }
      Radius 0.1
     }
-    UserActionContext "{61C2D4CE6BA77C48}" {
+    UserActionContext "{6532B409642E3AE1}" {
      ContextName "knob_toggle"
-     Position PointInfo "{61C2D4CE6BA77C4F}" {
+     Position PointInfo "{6532B409642E3AE2}" {
       Offset 0 0.2 -0.01
      }
      Radius 0.1
     }
    }
    additionalActions {
-    SCR_EquipGadgetAction "{553AEBE8F3B60801}" : "{068D8D646964D12A}Prefabs/Characters/Core/Actions/EquipGadgetAction.conf" {
+    SCR_EquipItemAction "{553AEBE8F3B60801}" : "{068D8D646964D12A}Prefabs/Characters/Core/Actions/EquipGadgetAction.conf" {
     }
-    SCR_RadioTuningUserAction "{61C2D4CE6BA77C72}" {
+    SCR_RadioTuningUserAction "{6532B409642E3AE9}" {
      ParentContextList {
       "knob_channel"
      }
-     UIInfo UIInfo "{61C2D4CE6BA77C7E}" {
+     UIInfo UIInfo "{6532B409642E3AF2}" {
      }
     }
-    SCR_RadioTuningUserAction "{61C2D4CE6BA77C7C}" {
+    SCR_RadioTuningUserAction "{6532B409642E3AF4}" {
      ParentContextList {
       "knob_channel"
      }
-     UIInfo UIInfo "{61C2D4CE6BA77C63}" {
+     UIInfo UIInfo "{6532B409642E3AF5}" {
      }
      m_bTuneUp 1
     }
-    SCR_RadioToggleUserAction "{61C2D4CE6BA77C62}" {
+    SCR_RadioToggleUserAction "{6532B409642E3AF7}" {
      ParentContextList {
       "knob_toggle"
      }
