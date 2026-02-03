@@ -1,0 +1,21 @@
+SCR_ChimeraCharacter : "{015EC1B41DCFA4AD}Prefabs/Characters/Factions/OPFOR/TKA/Character_TKA_Crew.et" {
+ coords 129.092 1 132.089
+}
+SCR_ChimeraCharacter : "{2AB4B266085CCB9A}Prefabs/Characters/Factions/OPFOR/TKA/Character_TKA_General.et" {
+ coords 128.014 1 132.142
+}
+SCR_ChimeraCharacter : "{33B4C2A3A4CAF0AA}Prefabs/Characters/Factions/OPFOR/TKA/Character_TKA_BaseLoadout.et" {
+ coords 130.147 1 132.057
+}
+SCR_ChimeraCharacter : "{3C6BCC1504715320}Prefabs/Characters/Factions/OPFOR/TKA/Character_TKA_PL.et" {
+ coords 125.66 1 132.043
+}
+SCR_ChimeraCharacter : "{8841617634EEF3BD}Prefabs/Characters/Factions/OPFOR/TKA/Character_TKA_Sergeant.et" {
+ coords 124.535 1 132.05
+}
+SCR_ChimeraCharacter : "{A575758C199662B0}Prefabs/Characters/Factions/OPFOR/TKA/Character_TKA_SL.et" {
+ coords 123.459 1 132.042
+}
+SCR_ChimeraCharacter : "{FE38B8DC9EF42DDB}Prefabs/Characters/Factions/OPFOR/TKA/Character_TKA_HeliPilot.et" {
+ coords 126.916 1 132.065
+}

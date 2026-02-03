@@ -1,0 +1,225 @@
+SCR_ChimeraCharacter : "{0848BAB1B94FCBBA}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_Crew.et" {
+ coords 142.78 1 132.746
+}
+SCR_ChimeraCharacter : "{08D5860833E95CA4}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO3_EMR/Character_RHS_RF_MSV_VKPO_3.0_Crew.et" {
+ coords 143.175 1 134.663
+}
+SCR_ChimeraCharacter : "{0EC238B0C2462457}Prefabs/Characters/Factions/INDFOR/TKR/Character_Ses_TKR_Crew.et" {
+ coords 129.088 1 137.064
+}
+SCR_ChimeraCharacter : "{124C018E4FE2DE7B}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_Officer.et" {
+ coords 140.548 1 132.732
+}
+SCR_ChimeraCharacter : "{130A2E98EF961445}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/Reservists/Character_UK_1989_Reservist_SectionCommander.et" {
+ coords 130.09 1 114.021
+}
+SCR_ChimeraCharacter : "{13F471430D84970C}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Summer/Character_RHS_RF_MSV_VKPO_S_Officer.et" {
+ coords 141.801 1 130.745
+}
+SCR_ChimeraCharacter : "{1958315C7F55F1AA}Prefabs/Characters/Factions/BLUFOR/UK_Army/1983/Regulars/Character_UK_1983_Regulars_PlatoonLeader.et" {
+ coords 134.636 1 117.583
+}
+SCR_ChimeraCharacter : "{1A5EC0FCCEEA79B9}Prefabs/Characters/Factions/INDFOR/TKR/Character_Ses_TKR_SL.et" {
+ coords 127.023 1 137.048
+}
+SCR_ChimeraCharacter : "{1B6A94A4D041846D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Summer/Character_RHS_RF_MSV_VKPO_S_Sergeant.et" {
+ coords 139.369 1 130.632
+}
+SCR_ChimeraCharacter : "{1B6BC2CF04DA7B02}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO3_EMR/Character_RHS_RF_MSV_VKPO_3.0_PL.et" {
+ coords 141.424 1 134.601
+}
+SCR_ChimeraCharacter : "{21B95ED97AE24289}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/Regulars/Character_UK_1989_Crew.et" {
+ coords 131.342 1 111.973
+}
+SCR_ChimeraCharacter : "{2B867D53E25C485C}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/Reservists/Character_UK_1989_Reservist_Officer.et" {
+ coords 131.332 1 114.075
+}
+SCR_ChimeraCharacter : "{325212741F0BF673}Prefabs/Characters/Factions/INDFOR/TKR/Character_Ses_TKR_SL_GL.et" {
+ coords 125.927 1 137.076
+}
+SCR_ChimeraCharacter : "{33A1A49E7ABEEF78}Prefabs/Characters/Factions/BLUFOR/UK_Army/1983/Regulars/Character_UK_1983_Regulars_Spotter.et" {
+ coords 131.083 1 117.356
+}
+SCR_AIGroup : "{371653AF9A7B81B8}Prefabs/Groups/BLUFOR/British Forces/1983/Group_UK_1983_Reservists_RifleSquad.et" {
+ coords 138.078 1 109.678
+}
+SCR_ChimeraCharacter : "{376676E968BA3518}Prefabs/Characters/Factions/BLUFOR/UK_Army/Character_UK_BaseLoadout.et" {
+ coords 140.384 1 117.731
+}
+SCR_ChimeraCharacter : "{38D59019ABF4D5F6}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_HeliPilot.et" {
+ coords 141.696 1 132.806
+}
+SCR_ChimeraCharacter : "{3B397572207A25EA}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/SpecialForces/Character_UK_1989_SpecialForces_BaseLoadout.et" {
+ coords 131.319 1 108.284
+}
+SCR_ChimeraCharacter : "{45A8C75A9E23BDEF}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Summer/Character_RHS_RF_MSV_VKPO_S_BaseLoadout.et" {
+ coords 143.863 1 130.693
+}
+SCR_ChimeraCharacter : "{4838874AA8CE9855}Prefabs/Characters/Factions/BLUFOR/UK_Army/1983/SpecialForces/Character_UK_1983_SpecialForces_Officer.et" {
+ coords 136.424 1 113.702
+}
+SCR_ChimeraCharacter : "{4CD88E5A61AE773D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_BaseLoadout.et" {
+ coords 143.922 1 132.747
+}
+SCR_ChimeraCharacter : "{4E9A3CAA773252F0}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/Regulars/Character_UK_1989_Regulars_Spotter.et" {
+ coords 122.32 1 111.817
+}
+SCR_ChimeraCharacter : "{541580A5EFB063CA}Prefabs/Characters/Factions/BLUFOR/UK_Army/1983/SpecialForces/Character_UK_1983_SpecialForces_SL.et" {
+ coords 137.338 1 112.348
+}
+SCR_ChimeraCharacter : "{564622CD8C4FA227}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/Regulars/Character_UK_1989_Regulars_DetachmentCommander.et" {
+ coords 129.338 1 112.029
+}
+SCR_ChimeraCharacter : "{5B236FF3A449A4E1}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO3_EMR/Character_RHS_RF_MSV_VKPO_3.0_BaseLoadout.et" {
+ coords 143.92 1 134.65
+}
+SCR_ChimeraCharacter : "{6894B2E1B99A5A06}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO3_EMR/Character_RHS_RF_MSV_VKPO_3.0_Officer.et" {
+ coords 142.352 1 134.651
+}
+SCR_ChimeraCharacter : "{69EE1158717E3028}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_PL.et" {
+ coords 139.345 1 132.669
+}
+SCR_ChimeraCharacter : "{6D4AB9E422430636}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/Regulars/Character_UK_1989_Regulars_Officer.et" {
+ coords 128.312 1 112.015
+}
+SCR_ChimeraCharacter : "{6FAAF2B4A124BA7F}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/SpecialForces/Character_UK_1989_SpecialForces_SL.et" {
+ coords 129.279 1 108.064
+}
+SCR_ChimeraCharacter : "{7778AEFBB5CE20AB}Prefabs/Characters/Factions/BLUFOR/UK_Army/1983/SpecialForces/Character_UK_1983_SpecialForces_CRW.et" {
+ coords 135.882 1 112.491
+}
+SCR_ChimeraCharacter : "{7865DE528AEF1FF0}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/Regulars/Character_UK_1989_Regulars_SectionCommander_Recce.et" {
+ coords 125.005 1 111.881
+}
+SCR_ChimeraCharacter : "{7BD71EE82DDDB298}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO3_EMR/Character_RHS_RF_MSV_VKPO_3.0_Sergeant.et" {
+ coords 140.417 1 134.628
+}
+SCR_ChimeraCharacter : "{7D7C6FBCBA40F45D}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/Regulars/Character_UK_1989_Regulars_SectionCommander.et" {
+ coords 126.183 1 111.881
+}
+SCR_ChimeraCharacter : "{82757B56193D4A92}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO3_EMR/Character_RHS_RF_MSV_VKPO_3.0_SL.et" {
+ coords 139.373 1 134.642
+}
+SCR_ChimeraCharacter : "{8329B91DB26C922D}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/Regulars/Character_UK_1989_HeliPilot.et" {
+ coords 130.446 1 112.064
+}
+SCR_ChimeraCharacter : "{834EA2EE05E27E41}Prefabs/Characters/Factions/BLUFOR/UK_Army/1983/Regulars/Character_UK_1983_Crew.et" {
+ components {
+  SCR_CharacterInventoryStorageComponent "{520EA1D2DB118DAC}" {
+   components {
+    SCR_EquipmentStorageComponent "{56B49DA9722B635D}" {
+     InitialStorageSlots {
+      SCR_EquipmentStorageSlot BinocularSlot {
+       Prefab "{9065E77698E63C1B}Prefabs/Items/Equipment/Binoculars/Binoculars_L12A1_Avimo.et"
+       AffectedByOcluders {
+       }
+      }
+      SCR_EquipmentStorageSlot WristwatchSlot {
+       Prefab "{072E87366E193577}Prefabs/Items/Equipment/Watches/Watch_SandY184A_UK.et"
+      }
+      SCR_EquipmentStorageSlot RadioSlot {
+       Enabled 0
+       Prefab "{1A7FE1AC9E645F27}Prefabs/Items/Equipment/Radios/Radio_PRC349.et"
+      }
+     }
+    }
+   }
+  }
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#AR-Role_Crew"
+    m_Image "{FFF9647950BAB2A7}UI/PreviewImages/Characters/BLUFOR/BritishForces/Character_UK_1983_Regulars_VehCrew.edds"
+    m_aAuthoredLabels +{
+    }
+    m_aAutoLabels +{
+    }
+   }
+  }
+  CharacterGrenadeSlotComponent "{520EA1D2F659CE6E}" {
+   WeaponTemplate ""
+  }
+  CharacterGrenadeSlotComponent "{5A6CDA0CCF43068E}" {
+   WeaponTemplate "{96FFE213B19D1D57}Prefabs/Weapons/Grenades/Smoke_No80_WP.et"
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{ADDB4062CA2910CB}Prefabs/Weapons/Rifles/L2A3/Rifle_L2A3_Sterling.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{FAF0D7C64A19CA8D}Prefabs/Characters/HeadGear/Helmet_DH132_01/Helmet_DH132A_01_UK.et"
+    }
+    LoadoutSlotInfo Jacket {
+     Prefab "{C42C535F667B250E}Prefabs/Characters/Uniforms/Suit_Tanker_US_01/Suit_Tanker_UK_01_tucked.et"
+    }
+    LoadoutSlotInfo ArmoredVest {
+    }
+    LoadoutSlotInfo Pants {
+     Prefab ""
+    }
+    LoadoutSlotInfo Boots {
+    }
+    LoadoutSlotInfo Back {
+    }
+    LoadoutSlotInfo Vest {
+     Prefab ""
+    }
+   }
+  }
+ }
+ coords 138.488 1 117.618
+}
+SCR_ChimeraCharacter : "{894628A45793E7A0}Prefabs/Characters/Factions/BLUFOR/US_Army/GreenBerets/Character_US_SF_BaseLoadout.et" {
+ coords 133.679 1 121.978
+}
+SCR_ChimeraCharacter : "{9050187791D8C55D}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/SpecialForces/Character_UK_1989_SpecialForces_Officer.et" {
+ coords 130.361 1 108.054
+}
+SCR_ChimeraCharacter : "{963BD8F3900F27B4}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Summer/Character_RHS_RF_MSV_VKPO_S_SL.et" {
+ coords 138.247 1 130.578
+}
+SCR_ChimeraCharacter : "{9EA74C682A2035BA}Prefabs/Characters/Factions/INDFOR/TKR/Character_Ses_TKR_PL.et" {
+ coords 128.154 1 137.122
+}
+SCR_ChimeraCharacter : "{B6F05D4557B61C4E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Spetsnaz/Character_USSR_SF_BaseLoadout.et" {
+ coords 143.364 1 125.655
+}
+SCR_ChimeraCharacter : "{B85BC71B4D06D60F}Prefabs/Characters/Factions/BLUFOR/UK_Army/1983/Regulars/Character_UK_1983_HeliPilot.et" {
+ coords 137.052 1 117.646
+}
+SCR_ChimeraCharacter : "{B9CFB916A26682D6}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/Regulars/Character_UK_1989_Regulars_Sergeant.et" {
+ coords 123.647 1 111.826
+}
+SCR_ChimeraCharacter : "{C5520722FCCA576E}Prefabs/Characters/Factions/INDFOR/TKR/Character_Ses_TKR_BaseLoadout.et" {
+ coords 130.211 1 137.005
+}
+SCR_ChimeraCharacter : "{D6635BA91795A269}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Summer/Character_RHS_RF_MSV_VKPO_S_PL.et" {
+ coords 140.586 1 130.693
+}
+SCR_ChimeraCharacter : "{DCA7DFB9B846B627}Prefabs/Characters/Factions/BLUFOR/UK_Army/1983/SpecialForces/Character_UK_1983_SpecialForces_BaseLoadout.et" {
+ coords 138.607 1 112.557
+}
+SCR_ChimeraCharacter : "{E1EAB80D1FE2C5FE}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_Sergeant.et" {
+ coords 138.101 1 132.7
+}
+SCR_ChimeraCharacter : "{F035759076B5818A}Prefabs/Characters/Factions/BLUFOR/UK_Army/1983/Reservists/Character_UK_1983_Reservist_SectionCommander.et" {
+ coords 138.078 1 115.488
+}
+SCR_ChimeraCharacter : "{F0F0A8C16C9901B8}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_SL.et" {
+ coords 136.84 1 132.707
+}
+SCR_ChimeraCharacter : "{F1DC0DCDD8677485}Prefabs/Characters/Factions/BLUFOR/UK_Army/1983/Regulars/Character_UK_1983_Regulars_Sergeant.et" {
+ coords 133.394 1 117.397
+}
+SCR_ChimeraCharacter : "{F1E1A7A59FE370C6}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Summer/Character_RHS_RF_MSV_VKPO_S_Crew.et" {
+ coords 142.831 1 130.8
+}
+SCR_ChimeraCharacter : "{F487760AB6777BF3}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/Regulars/Character_UK_1989_Regulars_PlatoonLeader.et" {
+ coords 127.223 1 111.899
+}
+SCR_ChimeraCharacter : "{FCE20644BDD2D5CC}Prefabs/Characters/Factions/BLUFOR/UK_Army/1983/Regulars/Character_UK_1983_Regulars_Officer.et" {
+ coords 135.791 1 117.644
+}
+SCR_ChimeraCharacter : "{FFB42452E9AD5FFC}Prefabs/Characters/Factions/BLUFOR/UK_Army/1983/Regulars/Character_UK_1983_Regulars_SectionCommander.et" {
+ coords 132.248 1 117.316
+}

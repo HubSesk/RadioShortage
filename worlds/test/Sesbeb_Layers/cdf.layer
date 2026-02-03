@@ -1,0 +1,21 @@
+SCR_ChimeraCharacter : "{16165F4184929A6A}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_SL.et" {
+ coords 122.82 1 127.424
+}
+SCR_ChimeraCharacter : "{3082927028B38FD2}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Sergeant.et" {
+ coords 123.951 1 127.469
+}
+SCR_ChimeraCharacter : "{3FC8B61EE94F6139}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Officer.et" {
+ coords 126.361 1 127.448
+}
+SCR_ChimeraCharacter : "{756D4054410A1927}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_PL.et" {
+ coords 125.144 1 127.47
+}
+SCR_ChimeraCharacter : "{7E40A30CA801819C}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_BaseLoadout.et" {
+ coords 129.956 1 127.436
+}
+SCR_ChimeraCharacter : "{930302D9F14EEFC0}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Crew.et" {
+ coords 128.795 1 127.439
+}
+SCR_ChimeraCharacter : "{990951B11778B1D8}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_HeliPilot.et" {
+ coords 127.502 1 127.436
+}

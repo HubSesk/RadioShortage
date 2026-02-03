@@ -1,0 +1,12 @@
+SCR_ChimeraCharacter : "{1CFF4E8E34E4C9D3}Prefabs/Characters/Factions/INDFOR/NAPA/Character_NAPA_Crew.et" {
+ coords 128.957 1 134.732
+}
+SCR_ChimeraCharacter : "{4B19E30E5FBE6920}Prefabs/Characters/Factions/INDFOR/NAPA/Character_NAPA_BaseLoadout.et" {
+ coords 130.266 1 134.683
+}
+SCR_ChimeraCharacter : "{68981CDFD1E05EC5}Prefabs/Characters/Factions/INDFOR/NAPA/Character_NAPA_SL.et" {
+ coords 126.487 1 134.668
+}
+SCR_ChimeraCharacter : "{F186A546CC076F55}Prefabs/Characters/Factions/INDFOR/NAPA/Character_NAPA_PL.et" {
+ coords 127.678 1 134.719
+}

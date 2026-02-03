@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{990951B11778B1D8}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_Ses_CDF_HeliPilot.et"
+ Name "{990951B11778B1D8}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_HeliPilot.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }

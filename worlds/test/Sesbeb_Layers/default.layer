@@ -1,18 +1,84 @@
-SCR_ChimeraCharacter : "{0B0F9BA9E9A6E118}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_USMC_MEF/Character_RHS_USAF_USMC_SL.et" {
- coords 128.295 1 124.449
+GenericEntity : "{02CF96D8F971B5B7}Prefabs/Items/Equipment/Radios/Radio_R148_FIA_Multi.et" {
+ coords 137.434 1 119.982
 }
-GenericEntity : "{59CA00DA0E8F426B}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Single.et" {
- coords 131.247 1 129.188
+GenericEntity : "{05D35BDD8195AB45}Prefabs/Items/Equipment/Radios/Radio_R148_Single.et" {
+ coords 138.996 1 120.005
 }
-GenericEntity : "{715F17F82E028CF5}Prefabs/Items/Equipment/Radios/Radio_R148_Single.et" {
- coords 131.341 1 129.429
+GenericEntity : "{0F6651CD9269B001}Prefabs/Items/Equipment/Radios/Radio_R148_Ses_TKA.et" {
+ coords 132.944 1 119.478
 }
-GenericEntity : "{88B4E9C3B4F3B89D}Prefabs/Items/Equipment/Radios/Radio_R148_Multi.et" {
- coords 131.418 1 125.595
+GenericEntity : "{1A7FE1AC9E645F27}Prefabs/Items/Equipment/Radios/Radio_PRC349.et" {
+ coords 131.96 1 119.489
 }
-GenericEntity : "{A021FEE1947E7603}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Multi.et" {
- coords 131.456 1 125.844
+GenericEntity : "{2A29E66CF5732B0E}Prefabs/Items/Equipment/Radios/Radio_PRC350.et" {
+ coords 130.966 1 119.462
 }
-GenericEntity : "{EB21D26B8D5A3232}Prefabs/Items/Food/MRE.et" {
- coords 131.925 1 129.225
+GenericEntity : "{2A6CDDF648443BCA}Prefabs/Items/Equipment/Radios/Radio_R148_Multi.et" {
+ coords 138.437 1 119.996
+}
+GenericEntity : "{2EC04B9DAC91EBDB}Prefabs/Items/Equipment/Radios/Radio_R148_Ses_ChDKZ_Multi.et" {
+ coords 133.45 1 119.988
+}
+GenericEntity : "{2F270BC3CD55A238}Prefabs/Items/Equipment/Radios/Radio_R148_Ses_ChDKZ.et" {
+ coords 133.951 1 119.478
+}
+GenericEntity : "{340C133625BB688E}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A_OLD_Multi.et" {
+ coords 136.455 1 120.023
+}
+GenericEntity : "{3D309788386E1506}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Ses_CDF.et" {
+ coords 134.972 1 119.491
+}
+GenericEntity : "{540C08AD5F21A5FA}Prefabs/Items/Equipment/Radios/Radio_R148_FIA.et" {
+ coords 137.95 1 119.481
+}
+GenericEntity : "{5C4BF525CA767EB8}Prefabs/Items/Equipment/Radios/Radio_R148_Ses_TKA_Multi.et" {
+ coords 132.46 1 119.996
+}
+GenericEntity : "{5D948A57AF3432ED}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A_OLD_Single.et" {
+ coords 136.967 1 120.037
+}
+GenericEntity : "{652FDE999BB0BAC1}Prefabs/Items/Equipment/Radios/Radio_PRC349_Multi.et" {
+ coords 131.46 1 119.982
+}
+GenericEntity : "{73950FBA2D7DB5C5}Prefabs/Items/Equipment/Radios/Radio_ANPRC68.et" {
+ coords 139.975 1 119.487
+}
+GenericEntity : "{7744070E783C1CAC}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Single.et" {
+ coords 139.972 1 120.005
+}
+GenericEntity : "{8091BEE87781EFBE}Prefabs/Items/Equipment/Radios/Radio_PRC349_Single.et" {
+ coords 131.953 1 119.981
+}
+GenericEntity : "{9E6BA6D8B508F7A2}Prefabs/Items/Equipment/Radios/Radio_R148_Ses_TKA_Single.et" {
+ coords 132.945 1 119.987
+}
+GenericEntity : "{AFBD4C5C1F83AC42}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_Single.et" {
+ coords 135.981 1 120.033
+}
+GenericEntity : "{B343AB76B0725657}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD.et" {
+ coords 135.954 1 119.503
+}
+GenericEntity : "{D55C4F07EF14A878}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_Multi.et" {
+ coords 135.493 1 120.03
+}
+GenericEntity : "{D69684663E89D6EA}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A_OLD.et" {
+ coords 136.938 1 119.52
+}
+GenericEntity : "{E076567C5A07569A}Prefabs/Items/Equipment/Radios/Radio_R148_Ses_ChDKZ_Single.et" {
+ coords 133.939 1 119.987
+}
+GenericEntity : "{E167C2A3F8CC77AA}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Multi.et" {
+ coords 139.459 1 120.006
+}
+GenericEntity : "{E1A5D4B878AA8980}Prefabs/Items/Equipment/Radios/Radio_R148.et" {
+ coords 138.956 1 119.487
+}
+GenericEntity : "{E2219E1380369860}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Ses_CDF_Multi.et" {
+ coords 134.492 1 120.013
+}
+GenericEntity : "{F609954A78ED8D19}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Ses_CDF_Single.et" {
+ coords 134.966 1 119.996
+}
+GenericEntity : "{F8844819895D0425}Prefabs/Items/Equipment/Radios/Radio_R148_FIA_Single.et" {
+ coords 137.963 1 119.994
 }

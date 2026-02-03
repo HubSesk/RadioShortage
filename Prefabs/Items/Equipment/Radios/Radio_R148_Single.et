@@ -5,12 +5,12 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
    "Encryption key" "coldBorscht"
    "Turned on" 1
    Transceivers {
-    RadioTransceiver "{6532B40BFAE1DBD6}" {
+    RadioTransceiver "{68781495C2109851}" {
      ChannelFrequency 38000
      "Transmitting Range" 1300
      "Min tunable frequency" 38000
      "Max tunable frequency" 54000
-     "Frequency resolution" 100
+     "Frequency resolution" 200
     }
    }
   }
@@ -28,10 +28,10 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
      RestingUP Forward
      RestingAdditiveOffsetLS 0 0 0.18
     }
-    ItemAnimationAttributes ItemAnimationAttributes "{6532B40BFAE1DBC4}" {
+    ItemAnimationAttributes ItemAnimationAttributes "{68781495C2109FA3}" {
      AnimationInstance "{5B6413B9125EE731}Assets/Items/Equipment/workspaces/Radio_R148_player.asi"
      AnimationAttachments {
-      AnimationAttachmentInfo "{6532B40BFAE1DBCA}" {
+      AnimationAttachmentInfo "{68781495C2109FA1}" {
        AnimGraph "{4512B6E152A948B4}Assets/Items/Equipment/workspaces/Radio_R148.agr"
        AnimInstance "{5B6413B9125EE731}Assets/Items/Equipment/workspaces/Radio_R148_player.asi"
        BindingName "Gadget"
@@ -40,14 +40,14 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
      AllowInspection 1
     }
     CustomAttributes {
-     PreviewRenderAttributes "{6532B40BFAE1DBCC}" {
+     PreviewRenderAttributes "{68781495C2109FA7}" {
       CameraPreset Top
       CameraOrbitAngles 20 0 0
       CameraDistanceToItem 1
       CameraOffset 0 -0.015 0
       FOV 10
      }
-     SCR_VONPreviewAttributes "{6532B40BFAE1DBF2}" {
+     SCR_VONPreviewAttributes "{68781495C2109FA4}" {
       CameraOrbitAngles -30 0 45
       CameraDistanceToItem 0.7
       FOV 40
@@ -68,9 +68,9 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
    ModelGeometry 1
    CCDRadius 0.028
   }
-  ProcAnimComponent "{6532B40BFAE1DBFA}" {
+  ProcAnimComponent "{68781495C2109FBF}" {
    Parameters {
-    ProcAnimParams "{6532B40BFAE1DBF8}" {
+    ProcAnimParams "{68781495C2109FBC}" {
      ResourceName "{DE57211A364C1700}Assets/Items/Equipment/Radios/Radio_R148/Radio_R148_01.pap"
      BoneNames {
       "i_channel01" "i_channel02"
@@ -93,16 +93,16 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
      }
      Radius 0.135
     }
-    UserActionContext "{6532B40BFAE1DBE0}" {
+    UserActionContext "{68781495C2109FB7}" {
      ContextName "knob_channel"
-     Position PointInfo "{6532B40BFAE1DBE7}" {
+     Position PointInfo "{68781495C2109FB4}" {
       PivotID "i_channel01"
      }
      Radius 0.15
     }
-    UserActionContext "{6532B40BFAE1DBE5}" {
+    UserActionContext "{68781495C2109F8A}" {
      ContextName "knob_toggle"
-     Position PointInfo "{6532B40BFAE1DBEB}" {
+     Position PointInfo "{68781495C2109F89}" {
       PivotID "Scene_Root"
       Offset -0.05 0.24 -0.01
      }
@@ -110,22 +110,22 @@ GenericEntity : "{5879D8E9C56E358D}Prefabs/Items/Core/Radio_base.et" {
     }
    }
    additionalActions {
-    SCR_RadioTuningUserAction "{6532B40BFAE1DBEE}" {
+    SCR_RadioTuningUserAction "{68781495C2109F8D}" {
      ParentContextList {
       "knob_channel"
      }
-     UIInfo UIInfo "{6532B40BFAE1DB10}" {
+     UIInfo UIInfo "{68781495C2109F86}" {
      }
     }
-    SCR_RadioTuningUserAction "{6532B40BFAE1DB16}" {
+    SCR_RadioTuningUserAction "{68781495C2109F84}" {
      ParentContextList {
       "knob_channel"
      }
-     UIInfo UIInfo "{6532B40BFAE1DB14}" {
+     UIInfo UIInfo "{68781495C2109F9A}" {
      }
      m_bTuneUp 1
     }
-    SCR_RadioToggleUserAction "{6532B40BFAE1DB1A}" {
+    SCR_RadioToggleUserAction "{68781495C2109F99}" {
      ParentContextList {
       "knob_toggle"
      }
