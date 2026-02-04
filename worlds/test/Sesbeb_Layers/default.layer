@@ -28,6 +28,12 @@ GenericEntity : "{340C133625BB688E}Prefabs/Items/Equipment/Radios/Radio_ANPRC152
 GenericEntity : "{3D309788386E1506}Prefabs/Items/Equipment/Radios/Radio_ANPRC68_Ses_CDF.et" {
  coords 134.972 1 119.491
 }
+GenericEntity : "{4C7EF9C8E3937A73}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A_OLD_ION_Single.et" {
+ coords 136.983 1 120.684
+}
+GenericEntity : "{4FE6F466E0895CC8}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A_OLD_ION_Multi.et" {
+ coords 136.534 1 120.63
+}
 GenericEntity : "{540C08AD5F21A5FA}Prefabs/Items/Equipment/Radios/Radio_R148_FIA.et" {
  coords 137.95 1 119.481
 }

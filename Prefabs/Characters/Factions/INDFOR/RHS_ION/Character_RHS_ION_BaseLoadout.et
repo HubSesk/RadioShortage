@@ -1,0 +1,14 @@
+SCR_ChimeraCharacter : "{53F6F7CF18A303D4}Prefabs/Characters/Factions/INDFOR/RHS_ION/Character_RHS_ION_base.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{623A72F12B547C81}" {
+     PrefabsToSpawn {
+      "{4C7EF9C8E3937A73}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A_OLD_ION_Single.et"
+     }
+    }
+   }
+  }
+ }
+}
